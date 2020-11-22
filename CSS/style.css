@@ -19,7 +19,7 @@ h1{
 }
 
 h1:hover{
-    transform: rotate(45deg);
+    transform: rotate(.1turn); 
 }
 
 p{
@@ -37,4 +37,8 @@ button{
 
 button:hover{
     cursor: pointer;
+}
+
+button.green{
+    background-color: green;
 }
