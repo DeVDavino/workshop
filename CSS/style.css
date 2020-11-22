@@ -19,7 +19,7 @@ h1{
 }
 
 h1:hover{
-    transform: rotate(45deg);
+    transform: rotate(.1turn); 
 }
 
 p{
@@ -46,4 +46,8 @@ button:nth-last-of-type(2){
 
 button:hover{
     cursor: pointer;
+}
+
+button.green{
+    background-color: green;
 }
