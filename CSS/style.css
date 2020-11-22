@@ -50,4 +50,5 @@ button:hover{
 
 button.green{
     background-color: green;
+    width: 500px;
 }
